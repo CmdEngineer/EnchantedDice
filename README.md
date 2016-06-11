@@ -1,0 +1,2 @@
+# EnchantedDice
+Spigot Plugin
